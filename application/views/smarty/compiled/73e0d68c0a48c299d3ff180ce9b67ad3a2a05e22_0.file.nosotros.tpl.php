@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.27, created on 2022-10-27 00:01:09
+<?php /* Smarty version 3.1.27, created on 2022-10-27 03:13:40
          compiled from "C:\xampp\htdocs\application\views\web\pagina\nosotros.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:12195789276359ae251db6a3_80415872%%*/
+/*%%SmartyHeaderCode:17168474426359db44edfca8_92181609%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,24 +9,24 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '73e0d68c0a48c299d3ff180ce9b67ad3a2a05e22' => 
     array (
       0 => 'C:\\xampp\\htdocs\\application\\views\\web\\pagina\\nosotros.tpl',
-      1 => 1666813690,
+      1 => 1666833067,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '12195789276359ae251db6a3_80415872',
+  'nocache_hash' => '17168474426359db44edfca8_92181609',
   'variables' => 
   array (
     'base_url' => 0,
   ),
   'has_nocache_code' => false,
   'version' => '3.1.27',
-  'unifunc' => 'content_6359ae25212833_26032520',
+  'unifunc' => 'content_6359db44f183e5_13805702',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_6359ae25212833_26032520')) {
-function content_6359ae25212833_26032520 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_6359db44f183e5_13805702')) {
+function content_6359db44f183e5_13805702 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '12195789276359ae251db6a3_80415872';
+$_smarty_tpl->properties['nocache_hash'] = '17168474426359db44edfca8_92181609';
 ?>
 <section class="sect-nosotros"><div class="container height"><div class="row height align-items-center"><div class="col-lg-6"><div class="sect-nosotros-text"><p class="nosotros-text1">Acerca de GymEO</p><p class="nosotros-text2">Somos comunidad</p><p class="nosotros-text3">¡Valoramos el trabajo en equipo y la asistencia mutua por encima de todo! Si bien nuestros entrenadores estarán encantados de ayudar a su desarrollo físico en clases individuales, también siempre encontrará el apoyo de un compañero, ya que nuestra capacitación grupal está limitada a solo 10 personas....</p></div></div></div></div></section><section class="sect-nosotros2"><div class="container"><div class="row"><div class="col-lg-12"><p class="nosotros-title1">Otros programas</p></div><div class="col-lg-4"><div class="nosotros-title2"><img src="<?php echo $_smarty_tpl->tpl_vars['base_url']->value;?>
 public/img/nosotros/service1.jpg" width="100%"><h3>ESTUDIO </br> CROSSFIT</h3></div></div><div class="col-lg-4"><div class="nosotros-title2"><img src="<?php echo $_smarty_tpl->tpl_vars['base_url']->value;?>

@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.27, created on 2022-10-26 17:44:01
+<?php /* Smarty version 3.1.27, created on 2022-10-27 03:13:56
          compiled from "C:\xampp\htdocs\application\views\web\pagina\galeria.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:375356145635955c108dcd7_71287625%%*/
+/*%%SmartyHeaderCode:1005984296359db543b8e66_26889801%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,24 +9,24 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'a643a2b1dbd6dab30dcf8e0148e0a3090e5929bd' => 
     array (
       0 => 'C:\\xampp\\htdocs\\application\\views\\web\\pagina\\galeria.tpl',
-      1 => 1529536200,
+      1 => 1666833067,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '375356145635955c108dcd7_71287625',
+  'nocache_hash' => '1005984296359db543b8e66_26889801',
   'variables' => 
   array (
     'base_url' => 0,
   ),
   'has_nocache_code' => false,
   'version' => '3.1.27',
-  'unifunc' => 'content_635955c10d5ef8_98786134',
+  'unifunc' => 'content_6359db543fc579_72931103',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_635955c10d5ef8_98786134')) {
-function content_635955c10d5ef8_98786134 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_6359db543fc579_72931103')) {
+function content_6359db543fc579_72931103 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '375356145635955c108dcd7_71287625';
+$_smarty_tpl->properties['nocache_hash'] = '1005984296359db543b8e66_26889801';
 ?>
 <section class="sect-nosotros"><div class="container height"><div class="row height align-items-center"><div class="col-lg-6"><div class="sect-nosotros-text"><p class="nosotros-text2">Galería</p><p class="nosotros-text3">Visualiza todas nuestras comodides, para la comodidad de cada uno de nuestros asociados....</p></div></div></div></div></section><section class="sect_galeria"><div class="container"><div class="row"><div class="col-lg-12"><div class="box_portafolio" data-ref="mixitup-container2"><nav class="head_navigation"><ul class="controls2"><!--li><a class="control" data-filter="all">TODO</a></li--><li><a class="control" data-filter=".foto">CROSSFIT</a></li><li><a class="control" data-filter=".foto1">PESAS</a></li><!--li><a class="control" data-sort="default:asc">Asc</a></li><li><a class="control" data-sort="default:desc">Desc</a></li--></ul></nav><div class="content_mixitup"><ul class="list_mixitup" id="gallery-multimedia"><li class="item2 foto" data-ref="mixitup-target"><a href="<?php echo $_smarty_tpl->tpl_vars['base_url']->value;?>
 public/img/galeria/galeria1.jpg" data-facebook-share-url="<?php echo $_smarty_tpl->tpl_vars['base_url']->value;?>

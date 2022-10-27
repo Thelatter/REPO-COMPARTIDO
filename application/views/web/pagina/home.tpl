@@ -69,7 +69,7 @@
 					<div class="item">
 						<div class="box_caracteristicas">
 							<div class="box_head">
-								<img src="{$base_url}public/img/iconos/icon1.svg">
+								<img src="{$base_url}public/img/iconos/icon1.svg" >
 							</div>
 							<div class="box_body">
 								<h3>METODOLOGÍA BIM</h3>
@@ -141,7 +141,7 @@ END SECTION COMIENZA*}
 				<div class="box_beneficio">
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/analisis-de-los-datos.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/analisis-de-los-datos.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
@@ -151,40 +151,40 @@ END SECTION COMIENZA*}
 
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/factibilidad.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/factibilidad.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
-							<h4>estudio de factibilidad</h4>
+							<h4>Estudio de factibilidad</h4>
 						</div>
 					</a>
 
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/proyecto.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/proyecto.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
-							<h4>diseño de proyecto</h4>
+							<h4>Diseño de proyecto</h4>
 						</div>
 					</a>
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/proceso.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/proceso.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
-							<h4>proyectos integrales</h4>
+							<h4>Proyectos integrales</h4>
 						</div>
 					</a>
 
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/sketch.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/sketch.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
-							<h4>modelado BIM</h4>
+							<h4>Modelado BIM</h4>
 						</div>
 					</a>
 				</div>
@@ -201,7 +201,7 @@ END SECTION COMIENZA*}
 				<div class="box_beneficio">
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/diseno-grafico.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/diseno-grafico.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
@@ -211,7 +211,7 @@ END SECTION COMIENZA*}
 
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/gestion-de-proyectos.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/gestion-de-proyectos.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
@@ -221,7 +221,7 @@ END SECTION COMIENZA*}
 
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/gerente.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/gerente.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
@@ -230,7 +230,7 @@ END SECTION COMIENZA*}
 					</a>
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/supervision.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/supervision.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}
@@ -240,7 +240,7 @@ END SECTION COMIENZA*}
 
 					<a href="#" class="item_beneficio">
 						<div class="box_head">
-							<img src="{$base_url}public/img/iconos/beneficios/consultoria.png" width="100%">
+							<img src="{$base_url}public/img/iconos/beneficios/consultoria.png" width="50%">
 						</div>
 						<div class="box_body">
 							{*<h6>Análisis de cabida</h6>*}

@@ -61,7 +61,7 @@
 		<div class="container">
 			<div class="row">
 				 <div class="col-lg-12">
-				 	<p><span>&copy 2018 ExportandOnline</span> - Todos los derechos reservados - Design by: 
+				 	<p><span>&copy 2022 Diseño y Gestion de Proyectos de Construcción</span> - Todos los derechos reservados - Design by: 
 					<a href="https://www.logosperu.com/" target="_blank">
 					<img src="{$base_url}public/img/logo/logo.ico" width="18"></a></p>
 				 </div>

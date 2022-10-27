@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.27, created on 2022-10-26 17:18:54
+<?php /* Smarty version 3.1.27, created on 2022-10-27 03:16:42
          compiled from "C:\xampp\htdocs\application\views\web\estructura\header.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:180344012563594fded1d2e6_34792739%%*/
+/*%%SmartyHeaderCode:6496470466359dbfa94e7e9_61571901%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,15 +9,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e8c352296a66cec3ee7946666a6fd952c6bbb5ab' => 
     array (
       0 => 'C:\\xampp\\htdocs\\application\\views\\web\\estructura\\header.tpl',
-      1 => 1529092832,
+      1 => 1666833401,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '180344012563594fded1d2e6_34792739',
+  'nocache_hash' => '6496470466359dbfa94e7e9_61571901',
   'variables' => 
   array (
-    'titulo_red' => 0,
     'page_content' => 0,
+    'titulo_red' => 0,
     'url_imagen' => 0,
     'url_noticia' => 0,
     'base_url' => 0,
@@ -29,16 +29,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.27',
-  'unifunc' => 'content_63594fdedbe3e1_94829299',
+  'unifunc' => 'content_6359dbfa9d4bf3_46379175',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_63594fdedbe3e1_94829299')) {
-function content_63594fdedbe3e1_94829299 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_6359dbfa9d4bf3_46379175')) {
+function content_6359dbfa9d4bf3_46379175 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '180344012563594fded1d2e6_34792739';
+$_smarty_tpl->properties['nocache_hash'] = '6496470466359dbfa94e7e9_61571901';
 ?>
-<!DOCTYPE html><!--To change this license header, choose License Headers in Project Properties.To change this template file, choose Tools | Templatesand open the template in the editor.--><html lang="es"><head><title><?php echo $_smarty_tpl->tpl_vars['titulo_red']->value;?>
-</title><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,requiresActiveX=true" /><meta name="KeyWords" content="Diseño de Logotipos, logos , logotipos, servicios de logos, Diseño Gráfico" /><meta name="author" content="Logos Perú" /><!--<meta name="description" content="Transporte Marver - Transporte de personal en Lima Perú, Turismo" />--><meta name="description" content="<?php if (isset($_smarty_tpl->tpl_vars['page_content']->value)) {
+<!DOCTYPE html><!--To change this license header, choose License Headers in Project Properties.To change this template file, choose Tools | Templatesand open the template in the editor.--><html lang="es"><head><title>Diseño y Gestion</title><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,requiresActiveX=true" /><meta name="KeyWords" content="Diseño de Logotipos, logos , logotipos, servicios de logos, Diseño Gráfico" /><meta name="author" content="Logos Perú" /><!--<meta name="description" content="Transporte Marver - Transporte de personal en Lima Perú, Turismo" />--><meta name="description" content="<?php if (isset($_smarty_tpl->tpl_vars['page_content']->value)) {
 echo $_smarty_tpl->tpl_vars['page_content']->value;
 }?>" /><meta name="google-site-verification" content="ArM228JvRbNQMDmfw-YqBKFL0fWhFKIIgSMuB5sr75I" /><meta name="msvalidate.01" content="A01D8EBEAA551809606CCFFE234E6DF5" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="GENERATOR" content="Microsoft FrontPage 4.0" /><meta name="DC.Identifier" content="index.html" /><meta name="DC.Language" SCHEME="RFC1766" content="SPANISH" /><meta name="distribution" content="all"><meta name="VW96.objecttype" content="Homepage" /><meta name="resource-type" content="Homepage" /><meta name="Revisit" content="1 days" /><meta name="robots" content="index,follow" /><meta name="GOOGLEBOT" content="index follow" /><meta name="Revisit" content="1 days" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Cache-Control" content="no-cache" /><meta name="ROBOTS" content="ALL" /><meta name="ProgId" content="FrontPage.Editor.Document" /><meta property="fb:admins" content="129856497709093" /><meta property="article:publisher" content="https://www.facebook.com/DLogosPeru/" /><meta property="og:type" content="article" /><meta property="og:site_name" content="Logos Perú" /><meta property="og:title" content="<?php if (isset($_smarty_tpl->tpl_vars['titulo_red']->value)) {
 echo $_smarty_tpl->tpl_vars['titulo_red']->value;
